@@ -1,0 +1,376 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Whey Gold",
+    "category": "Protein",
+    "price": 3499,
+    "image": "http://localhost:5000/uploads/1773741822172-230209771.png",
+    "shortDescription": "The gold standard of protein. ultra-filtered whey for maximum purity and rapid muscle recovery.",
+    "description": "Our Premium Whey Gold is engineered for athletes who demand the absolute best. Using a sophisticated cross-flow microfiltration process, we've isolated the purest protein fractions while removing excess fats and sugars. Each scoop delivers a massive 25g of high-biological value protein, rich in BCAAs to trigger protein synthesis immediately after your workout. The taste is as premium as the results, with a smooth texture that mixes instantly.",
+    "ingredients": [
+      "Ultra-Filtered Whey Protein Isolate",
+      "Whey Protein Concentrate",
+      "ProHydrolase Enzyme Blend",
+      "Cocoa Powder",
+      "Natural Stevia Extract"
+    ],
+    "benefits": [
+      "25g pure protein per serving",
+      "Fast-acting muscle repair",
+      "Superior mixability and taste",
+      "Includes digestive enzymes"
+    ],
+    "stats": {
+      "proteins": "25g Protein",
+      "servings": "30 Servings"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Toofaan Pre Workout",
+    "category": "Pre Workout",
+    "price": 1499,
+    "image": "https://i.ibb.co/JF8KhFpX/TOOFAN.png",
+    "shortDescription": "Unleash the storm within. Explosive energy, laser focus, and skin-splitting pumps.",
+    "description": "Toofaan is not just a pre-workout; it's a force of nature. Formulated with clinical doses of Citrulline Malate and Beta-Alanine, it prepares your body for the most intense training sessions. The 'Focus Matrix' ensures your mind is as sharp as your drive, eliminating distractions and allowing you to push past previous plateaus. Experience the surge of power that only Toofaan can provide.",
+    "ingredients": [
+      "L-Citrulline Malate 2:1",
+      "Beta-Alanine",
+      "Caffeine Anhydrous (300mg)",
+      "L-Tyrosine",
+      "Huperzine A"
+    ],
+    "benefits": [
+      "Explosive energy surge",
+      "Razor-sharp mental focus",
+      "Enhanced vascularity and pumps",
+      "Zero crash formula"
+    ],
+    "stats": {
+      "proteins": "High Energy",
+      "servings": "25 Servings"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Rushmode Pre Workout",
+    "category": "Pre Workout",
+    "price": 1799,
+    "image": "https://i.ibb.co/xqWNtRzW/RUSH-MODE.png",
+    "shortDescription": "Enter the zone instantly. Sustained energy and endurance for high-volume athletes.",
+    "description": "Rushmode is designed for the endurance athlete and the high-volume lifter. While other pre-workouts peak early and fade fast, Rushmode features a dual-stage caffeine release system that provides steady energy for up to 2 hours. Combined with electrolytes for hydration and Taurine for cardiac efficiency, it’s the ultimate partner for long, demanding sessions. Don't just start strong—finish stronger.",
+    "ingredients": [
+      "Sustained-Release Caffeine",
+      "Beta-Alanine (CarnoSyn)",
+      "Taurine",
+      "Pink Himalayan Salt",
+      "Vitamin B12"
+    ],
+    "benefits": [
+      "No-jitter steady energy",
+      "Improved muscular endurance",
+      "Critical electrolyte support",
+      "Enhanced ATP production"
+    ],
+    "stats": {
+      "proteins": "Endurance",
+      "servings": "30 Servings"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Pump X",
+    "category": "Pump",
+    "price": 1299,
+    "image": "https://i.ibb.co/pvzmB6Qm/PUMP-X.png",
+    "shortDescription": "The ultimate non-stimulant vasodilator. Achieve maximum blood flow and muscle fullness.",
+    "description": "Pump X is the pinnacle of nitric oxide supplementation. Free from stimulants, it focuses entirely on hyper-oxygenating your muscles and maximizing nutrient delivery through vasodilation. Whether you're training late at night or stacking it with your favorite pre-workout, Pump X delivers a level of muscle fullness and vascularity that you have to see to believe. Feel the stretch, see the results.",
+    "ingredients": [
+      "Nitrosigine",
+      "Agmatine Sulfate",
+      "GlycerPump",
+      "Pine Bark Extract",
+      "Beetroot Powder"
+    ],
+    "benefits": [
+      "Extreme muscle hydration",
+      "Non-stimulant formula",
+      "Enhanced nutrient delivery",
+      "Incredible vascularity"
+    ],
+    "stats": {
+      "proteins": "Non-Stim",
+      "servings": "20 Servings"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Omega 3 Fish Oil",
+    "category": "Health",
+    "price": 999,
+    "image": "https://i.ibb.co/BKwVXGdN/OMEGA-FISH-OIL.png",
+    "shortDescription": "Deep-sea sourced EPA & DHA for heart health, joint support, and cognitive function.",
+    "description": "Our Omega 3 Fish Oil is molecularly distilled to ensure the highest purity and zero heavy metals. Rich in essential EPA and DHA fatty acids, it’s a cornerstone for any serious athlete’s health regimen. It supports joint lubrication, reduces inflammation from intense training, and promotes cardiovascular health. The enteric coating ensures maximum absorption without the unpleasant aftertaste.",
+    "ingredients": [
+      "Purified Deep Sea Fish Oil",
+      "EPA (Eicosapentaenoic Acid)",
+      "DHA (Docosahexaenoic Acid)",
+      "Vitamin E (as D-Alpha Tocopherol)"
+    ],
+    "benefits": [
+      "Joint health and mobility",
+      "Powerful anti-inflammatory",
+      "Cognitive and brain support",
+      "Heart health optimizer"
+    ],
+    "stats": {
+      "proteins": "Heart Health",
+      "servings": "60 Softgels"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Muscle Juice",
+    "category": "Mass",
+    "price": 2999,
+    "image": "https://i.ibb.co/BVhJ0Gqz/MUSCLE-JUICE.png",
+    "shortDescription": "High-calorie anabolic kompleks for rapid mass gains and strength development.",
+    "description": "When your metabolism burns faster than you can eat, Muscle Juice is the answer. This high-density mass gainer provides the perfect ratio of complex carbohydrates and multi-stage proteins to keep your body in an anabolic state. It’s packed with healthy caloric density to help hardgainers break through their size barriers and build significant lean muscle mass.",
+    "ingredients": [
+      "Multi-Source Protein Blend",
+      "Maltodextrin",
+      "Oat Flour",
+      "MCT Oil Powder",
+      "Creatine Monohydrate"
+    ],
+    "benefits": [
+      "800+ calories per serving",
+      "50g mixed-source protein",
+      "Complex carb energy",
+      "Aids rapid weight gain"
+    ],
+    "stats": {
+      "proteins": "50g Protein",
+      "servings": "15 Servings"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Advance Multivitamin",
+    "category": "Vitamins",
+    "price": 799,
+    "image": "https://i.ibb.co/sJF96J1Y/MULTI-VITAMIN.png",
+    "shortDescription": "Complete micronutrient profile designed for the specific needs of active individuals.",
+    "description": "Training hard increases your body's demand for vitamins and minerals. Advance Multivitamin fills the nutritional gaps that diet alone often leaves behind. With a full spectrum of Vitamins A through Z, plus an antioxidant fruit and vegetable blend, it supports immune function, energy metabolism, and overall vitality. Stay protected, stay active.",
+    "ingredients": [
+      "Vitamin A, C, D, E, K",
+      "B-Complex (B1, B2, B3, B6, B12)",
+      "Zinc, Magnesium, Selenium",
+      "Antioxidant Blend"
+    ],
+    "benefits": [
+      "Immune system support",
+      "Enhanced energy levels",
+      "Full spectrum micronutrients",
+      "Metabolic health support"
+    ],
+    "stats": {
+      "proteins": "Vit A-Z",
+      "servings": "30 Days"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Premium Mass Gainer",
+    "category": "Mass",
+    "price": 2799,
+    "image": "https://i.ibb.co/v6sphyFK/MASS-GAINER.png",
+    "shortDescription": "Clean calories for lean bulk. High-quality protein and carbs without the fillers.",
+    "description": "Forget the 'dirty bulking' powders full of sugar. Our Premium Mass Gainer is built on a foundation of high-quality whole food carb sources like Sweet Potato and Quinoa, paired with a slow-to-fast protein blend. It provides the surplus calories needed for growth while minimizing fat storage, ensuring your gains are high-quality lean muscle.",
+    "ingredients": [
+      "Clean Carb Blend (Sweet Potato, Quinoa)",
+      "Whey Isolate & Micellar Casein",
+      "Flaxseed Powder",
+      "Digestive Enzyme Complex"
+    ],
+    "benefits": [
+      "Clean calorie formulation",
+      "Minimized fat storage",
+      "Whole food carb sources",
+      "Sustained protein release"
+    ],
+    "stats": {
+      "proteins": "40g Protein",
+      "servings": "20 Servings"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Martin Gainz",
+    "category": "Mass",
+    "price": 2599,
+    "image": "https://i.ibb.co/r2Kbf9tT/MARTIN-GAINZ.png",
+    "shortDescription": "The pro's choice for density. Specially formulated for dramatic size increases.",
+    "description": "Developed in collaboration with elite trainers, Martin Gainz is optimized for muscle cell volumization. By combining high-molecular weight carbohydrates with an amino-enhanced protein matrix, it drives nutrients into the muscle cells faster than standard gainers. If size is your only goal, Martin Gainz is your only choice.",
+    "ingredients": [
+      "Highly Branched Cyclic Dextrin",
+      "PeptoPro Casein Hydrolysate",
+      "L-Glutamine",
+      "BCAAs (2:1:1)"
+    ],
+    "benefits": [
+      "Rapid nutrient uptake",
+      "Muscle cell volumization",
+      "Elite mass architecture",
+      "Professional grade formula"
+    ],
+    "stats": {
+      "proteins": "60g Protein",
+      "servings": "12 Servings"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Isolate Protein Elite",
+    "category": "Protein",
+    "price": 3299,
+    "image": "https://i.ibb.co/wrB375qQ/ISOLATE.png",
+    "shortDescription": "Zero sugar, zero fat, 100% pure isolate. The ultimate refinement in protein.",
+    "description": "Isolate Protein Elite is the cleanest protein ever created. With virtually zero lactose, fat, or carbs, it's the perfect choice for those on a strict cutting phase or with sensitive stomachs. It absorbs almost instantly, making it the ideal post-workout recovery tool to jumpstart the repair process without any digestive heaviness.",
+    "ingredients": [
+      "100% Whey Protein Isolate",
+      "L-Leucine",
+      "Natural Flavors",
+      "Sunflower Lecithin"
+    ],
+    "benefits": [
+      "Ultra-fast absorption",
+      "Virtually zero carbs/fat",
+      "Lactose-friendly",
+      "Maximum purity level"
+    ],
+    "stats": {
+      "proteins": "27g Protein",
+      "servings": "30 Servings"
+    }
+  },
+  {
+    "id": "12",
+    "name": "INTRVL Whey Protein",
+    "category": "Protein",
+    "price": 2199,
+    "image": "https://i.ibb.co/Hf7pZstp/INTRVL.png",
+    "shortDescription": "High-performance whey for interval training and functional fitness.",
+    "description": "INTRVL Whey is tailored for the modern functional athlete. Whether you're doing CrossFit, HIIT, or sports-specific training, your body needs a protein that can keep up. INTRVL combines fast-acting whey with added magnesium and potassium to support muscle function and prevent cramping during grueling interval sessions.",
+    "ingredients": [
+      "Whey Protein Blend",
+      "Magnesium Citrate",
+      "Potassium Gluconate",
+      "Vitamin C"
+    ],
+    "benefits": [
+      "Supports functional recovery",
+      "Electrolyte-enhanced",
+      "Reduces muscle cramping",
+      "Light and refreshing flavors"
+    ],
+    "stats": {
+      "proteins": "24g Protein",
+      "servings": "28 Servings"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Hulk Mass Gainer",
+    "category": "Mass",
+    "price": 2899,
+    "image": "https://i.ibb.co/JRfQrr9y/HULK-MASS-GAINER.png",
+    "shortDescription": "Smash your limits. A colossal calorie formula for those who want to be huge.",
+    "description": "Hulk Mass Gainer is designed for one thing: sheer size. It provides a massive delivery of calories, proteins, and carbohydrates to ensure you are never in a caloric deficit. With added creatine and healthy fats, it provides the raw materials your body needs to transform into a powerhouse. Get ready to outgrow your old self.",
+    "ingredients": [
+      "Mass Protein Matrix",
+      "High-Calorie Carb Blend",
+      "Creatine Monohydrate",
+      "Healthy Fat Complex"
+    ],
+    "benefits": [
+      "Colossal calorie count",
+      "Serious mass development",
+      "Includes 5g Creatine",
+      "Maximum anabolic support"
+    ],
+    "stats": {
+      "proteins": "55g Protein",
+      "servings": "18 Servings"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Glutamine Powder",
+    "category": "Recovery",
+    "price": 1199,
+    "image": "https://i.ibb.co/vxJJ25Wg/GLUTAMINE.png",
+    "shortDescription": "Pure L-Glutamine for gut health, immune support, and muscle tissue repair.",
+    "description": "L-Glutamine is the most abundant amino acid in the body, and it gets depleted rapidly during intense training. Our ultra-pure Glutamine Powder helps replenish these levels, supporting the repair of muscle tissue and protecting your immune system. It also plays a critical role in gut health and integrity, ensuring you can absorb all the nutrients you eat.",
+    "ingredients": [
+      "100% Pure L-Glutamine"
+    ],
+    "benefits": [
+      "Accelerates tissue repair",
+      "Supports healthy gut",
+      "Boosts immune function",
+      "Prevents muscle breakdown"
+    ],
+    "stats": {
+      "proteins": "Recovery",
+      "servings": "60 Servings"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Amino Advance 9X",
+    "category": "Amino",
+    "price": 1399,
+    "image": "https://i.ibb.co/fVkL9jwL/AMINO-ADVANCE.png",
+    "shortDescription": "All 9 essential aminos with added hydration. The ultimate intra-workout.",
+    "description": "When you're mid-set, your muscles need fuel. Amino Advance 9X provides all 9 Essential Amino Acids (EAAs) that your body cannot produce on its own. It prevents muscle catabolism (breakdown) during your workout and includes a mineral-rich hydration complex to keep you performing at 100% from the first rep to the last.",
+    "ingredients": [
+      "Complete EAA Profile",
+      "BCAAs (2:1:1)",
+      "Coconut Water Powder",
+      "Mineral Electrolytes"
+    ],
+    "benefits": [
+      "Prevents muscle breakdown",
+      "Superior intra-workout hydration",
+      "Supports protein synthesis",
+      "Zero sugar and calories"
+    ],
+    "stats": {
+      "proteins": "Intra-Workout",
+      "servings": "30 Servings"
+    }
+  },
+  {
+    "id": "16",
+    "name": "Creatine Monohydrate",
+    "category": "Strength",
+    "price": 999,
+    "image": "https://i.ibb.co/SwFC2KKC/CREATINE.png",
+    "shortDescription": "The world's most researched strength supplement. Micronized for perfect mixing.",
+    "description": "Creatine is the undisputed king of performance supplements. Our micronized Creatine Monohydrate increases your muscle's phosphocreatine stores, allowing you to produce more ATP energy to fuel your muscles during heavy lifting. The result is a significant increase in strength, power, and muscle volume. It’s flavorless and mixes perfectly into any shake.",
+    "ingredients": [
+      "100% Pure Micronized Creatine Monohydrate"
+    ],
+    "benefits": [
+      "Proven strength increase",
+      "Enhanced power output",
+      "Improved muscle volumization",
+      "Rapid ATP regeneration"
+    ],
+    "stats": {
+      "proteins": "Strength",
+      "servings": "50 Servings"
+    }
+  }
+]
